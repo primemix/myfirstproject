@@ -1,0 +1,7 @@
+{
+    "name": "pro/myfirstproject",
+    "require": {
+        "silex/silex": "^2.2",
+        "phpunit/phpunit": "^6.3"
+    }
+}
